@@ -1,0 +1,24 @@
+{
+    "jobs": [
+        {
+            "title": "Junior Developer",
+            "id": 1,
+            "details": "lorem"
+        },
+        {
+            "title": "UX designer",
+            "id": 2,
+            "details": "lorem"
+        },
+        {
+            "title": "Team lead",
+            "id": 3,
+            "details": "lorem"
+        },
+        {
+            "title": "Frontline designer",
+            "id": 4,
+            "details": "lorem"
+        }
+    ]
+}
